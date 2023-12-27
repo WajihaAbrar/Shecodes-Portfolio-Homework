@@ -1,6 +1,6 @@
 :root {
   --primary-color: #8a2be2;
-  --secondary-color: #fa7070;
+  --secondary-color: #ff1eff;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
 
@@ -140,6 +140,9 @@ p {
     justify-content: center;
     margin: 15px 25px;
     border-radius: 4px;
+  }
+  .app-button:hover {
+    color: #fff;
   }
   .link-button {
     padding: 10px 15px;
