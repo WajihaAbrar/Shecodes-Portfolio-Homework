@@ -138,7 +138,7 @@ p {
   .app-button {
     display: flex;
     justify-content: center;
-    margin: 15px 0px;
+    margin: 15px 25px;
     border-radius: 4px;
   }
   .link-button {
